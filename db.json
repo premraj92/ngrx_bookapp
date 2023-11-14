@@ -1,0 +1,22 @@
+{
+  "books": [
+    {
+      "id": "3fe92243-8444-4ee4-bb39-b5460b8919f1",
+      "name": "The Hobbit",
+      "earnings": "10000000",
+      "description": null
+    },
+    {
+      "id": "63fa3f67-5677-4c97-8cba-b7b2e080e218",
+      "name": "Harry Potter",
+      "earnings": "200000000",
+      "description": null
+    },
+    {
+      "id": "74c4da1a-28aa-450a-958a-c628ad4132b4",
+      "name": "Marvel",
+      "earnings": "200000000",
+      "description": null
+    }
+  ]
+}
